@@ -1,1 +1,1 @@
-test.mdxx
+test.md
